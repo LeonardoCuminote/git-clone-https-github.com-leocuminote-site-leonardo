@@ -1,30 +1,29 @@
-# Leonardo Cuminote - Serviços Residenciais em Serra e Vitória - ES
+# Leonardo Cuminote - ServiÃ§os Residenciais em Serra e VitÃ³ria - ES
 
-Este repositório contém o código-fonte do meu site pessoal, onde ofereço **serviços de manutenção, instalação e pequenos reparos residenciais** nas cidades de **Serra e Vitória, Espírito Santo**.
+Este repositÃ³rio contÃ©m o cÃ³digo-fonte do meu site pessoal, onde ofereÃ§o **serviÃ§os de manutenÃ§Ã£o, instalaÃ§Ã£o e pequenos reparos residenciais** nas cidades de **Serra e VitÃ³ria, EspÃ­rito Santo**.
 
-## 🔧 Serviços Prestados
+## ðŸ”§ ServiÃ§os Prestados
 
-- Instalação de TVs
-- Troca de chuveiros e resistências
-- Instalação de bebedouros portáteis
-- Ajustes hidráulicos
+- InstalaÃ§Ã£o de TVs
+- Troca de chuveiros e resistÃªncias
+- InstalaÃ§Ã£o de bebedouros portÃ¡teis
+- Ajustes hidrÃ¡ulicos
 - Troca de torneiras
-- Instalação de prateleiras
-- Troca de lâmpadas, lustres, spots e luminárias
+- InstalaÃ§Ã£o de prateleiras
+- Troca de lÃ¢mpadas, lustres, spots e luminÃ¡rias
 - Pequenos reparos de pintura
-- Instalação de travas de porta
-- E outros serviços mediante análise
+- InstalaÃ§Ã£o de travas de porta
+- E outros serviÃ§os mediante anÃ¡lise
 
-## 🌐 Acesse o site
+## ðŸŒ Acesse o site
 
-📎 [https://leocuminote.github.io/site-leonardo/](https://leocuminote.github.io/site-leonardo/)
+ðŸ“Ž [https://leocuminote.github.io/site-leonardo/](https://leocuminote.github.io/site-leonardo/)
 
-## 📞 Contato
+## ðŸ“ž Contato
 
-- 📱 WhatsApp: [(27) 99926-2026](https://wa.me/5527999262026)
-- 📧 E-mail: leonardocuminote@gmail.com
+- ðŸ“± WhatsApp: [(27) 99926-2026](https://wa.me/5527999262026)
+- ðŸ“§ E-mail: leonardocuminote@gmail.com
 
 ---
 
-**Este site é mantido por Leonardo Cuminote – prestador de serviços com atendimento rápido e personalizado.**
-
+**Este site Ã© mantido por Leonardo Cuminote â€“ prestador de serviÃ§os com atendimento rÃ¡pido e personalizado.**
